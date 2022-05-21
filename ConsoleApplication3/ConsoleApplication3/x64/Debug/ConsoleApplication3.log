@@ -1,0 +1,5 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\ilyak\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(17,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\ilyak\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(24,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\ilyak\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(25,70): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+  ConsoleApplication3.vcxproj -> C:\Users\ilyak\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
